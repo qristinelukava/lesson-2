@@ -1,0 +1,50 @@
+.divide {
+    display: flex;
+    margin-left: 100px;
+}
+.lists {
+    display: flex;
+}
+.li-1 {
+    margin-left: 50px;
+    font-size: 23px;
+}
+.div-1{
+    margin-top: 50px;
+}
+.logo {
+    width: 150px;
+    height: 100px;
+}
+.background {
+    background-image: url(../image/Fashion88.png);
+    width: 100%;
+    height: 380px;
+    margin-top: 30px;
+    background-size: cover;
+    position: absolute;
+   
+    
+}
+.div-2{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+.p-1{
+    font-size: 22px;
+    color: white;
+    margin-bottom: 20px;
+}
+.head1{
+    font-size: 48px;
+    color: white;
+}
+.head2 {
+    font-size: 22px;
+    color: #FF7A00;
+    margin-top: 50px;
+    margin-left: 50px;
+   margin-top: 480px;
+}
